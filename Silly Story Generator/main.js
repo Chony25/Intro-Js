@@ -28,7 +28,7 @@ let newStory = storyText;
 
 
 
-let xItem = randomValueFromArray(insertx);
+let xItem = randomValueFromArray(insertX);
 let yItem = randomValueFromArray(insertY);
 let zItem = randomValueFromArray(insertZ);
 
